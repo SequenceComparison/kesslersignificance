@@ -1,0 +1,41 @@
+{
+    "title": "CLDF Dataset derived from Kessler's \"Significance of Wordlists\" from 2001",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "M. Dickmanns",
+            "type": "DataCollector"
+        },
+        {
+            "name": "S. M. Oetzel",
+            "type": "DataCollector"
+        },
+        {
+            "name": "K. Vogt",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Shir\u014d Hattori",
+            "type": "DataCollector"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Kessler, B. (2001): The Significance of Wordlists. CSLI: Stanford.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
