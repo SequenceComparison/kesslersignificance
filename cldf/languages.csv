@@ -1,9 +1,9 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-Albanian,Albanian,gheg1238,,,,,,
-Latin,Latin,lati1261,,,,,,
-German,German,stan1295,,,,,,
-English,English,stan1293,,,,,,
-Navajo,Navajo,nava1243,,,,,,
-French,French,stan1290,,,,,,
-Hawaiian,Hawaiian,hawa1245,,,,,,
+Albanian,Albanian,gheg1238,Gheg Albanian,aln,Eurasia,42.317,21.3837,Indo-European
+Latin,Latin,lati1261,Latin,lat,Eurasia,41.9026,12.4502,Indo-European
+German,German,stan1295,German,deu,Eurasia,48.649,12.4676,Indo-European
+English,English,stan1293,English,eng,Eurasia,53.0,-1.0,Indo-European
+Navajo,Navajo,nava1243,Navajo,nav,North America,36.33,-109.38,Athabaskan-Eyak-Tlingit
+French,French,stan1290,French,fra,Eurasia,48.0,2.0,Indo-European
+Hawaiian,Hawaiian,hawa1245,Hawaiian,haw,Papunesia,19.6297,-155.43,Austronesian
 Turkish,Turkish,nucl1201,,,,,,
