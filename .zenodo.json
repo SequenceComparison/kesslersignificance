@@ -7,25 +7,13 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
+            "name": "Kessler, B."
         }
     ],
     "contributors": [
         {
-            "name": "M. Dickmanns",
-            "type": "DataCollector"
-        },
-        {
-            "name": "S. M. Oetzel",
-            "type": "DataCollector"
-        },
-        {
-            "name": "K. Vogt",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Shir\u014d Hattori",
-            "type": "DataCollector"
+            "name": "Johann-Mattis List",
+            "type": "Other"
         }
     ],
     "communities": [

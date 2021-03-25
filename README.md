@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Kessler, B. (2001): The Significance of Wordlists. CSLI: Stanford.
 
-This dataset is licensed under a CC-By-4.0 license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://github.com/SequenceComparison/SupplementaryMaterial/zipball/master
 
@@ -36,10 +36,7 @@ Conceptlists in Concepticon:
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Author
-M. Dickmanns | | digitization of Japanese data | DataCollector
-S. M. Oetzel | | digitization of Japanese data | DataCollector 
-K. Vogt | | digitization of Japanese data | DataCollector  
-Shirō Hattori | | collection of original data | DataCollector
+Kessler, B. | | | Author
+Johann-Mattis List | @LinguList | maintainer | Other 
 
 
