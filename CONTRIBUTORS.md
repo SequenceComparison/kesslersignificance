@@ -3,4 +3,4 @@
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Kessler, B. | | | Author
-Johann-Mattis List | @LinguList | maintainer | Other 
+Johann-Mattis List | @LinguList | maintainer | Editor

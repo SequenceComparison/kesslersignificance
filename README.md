@@ -1,6 +1,6 @@
 # CLDF Dataset derived from Kessler's "Significance of Wordlists" from 2001
 
-[![CLDF validation](https://github.com/sequencecomparison/kesslersignificance/workflows/CLDF-validation/badge.svg)](https://github.com/sequencecomparison/kesslersignificance/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/SequenceComparison/kesslersignificance/workflows/CLDF-validation/badge.svg)](https://github.com/SequenceComparison/kesslersignificance/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -22,15 +22,15 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![CLDF validation](https://github.com/sequencecomparison/kesslersignificance/workflows/CLDF-validation/badge.svg)](https://github.com/sequencecomparison/kesslersignificance/actions?query=workflow%3ACLDF-validation)
+[![CLDF validation](https://github.com/SequenceComparison/kesslersignificance/workflows/CLDF-validation/badge.svg)](https://github.com/SequenceComparison/kesslersignificance/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 8
-- **Concepts:** 200
+- **Varieties:** 8 (linked to 8 different Glottocodes)
+- **Concepts:** 200 (linked to 200 different Concepticon concept sets)
 - **Lexemes:** 1,600
 - **Sources:** 1
 - **Synonymy:** 1.00
@@ -38,7 +38,7 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.75
 - **Invalid lexemes:** 0
 - **Tokens:** 6,246
-- **Segments:** 97 (0 BIPA errors, 0 CTLS sound class errors, 97 CLTS modified)
+- **Segments:** 97 (0 BIPA errors, 0 CLTS sound class errors, 97 CLTS modified)
 - **Inventory size (avg):** 35.00
 
 # Contributors
@@ -46,7 +46,7 @@ Conceptlists in Concepticon:
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Kessler, B. | | | Author
-Johann-Mattis List | @LinguList | maintainer | Other 
+Johann-Mattis List | @LinguList | maintainer | Editor
 
 
 
